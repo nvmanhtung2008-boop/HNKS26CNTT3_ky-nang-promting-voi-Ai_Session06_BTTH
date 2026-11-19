@@ -1,0 +1,10 @@
+{
+  "status": "SUCCESS",
+  "scores": {
+    "concept": 4,
+    "simplicity": 3,
+    "example": 2
+  },
+  "total": 9,
+  "feedback": "Hiểu đúng bản chất và có ví dụ thực tế tốt, chỉ thiếu ý về sự đồng nhất kiểu dữ liệu."
+}
